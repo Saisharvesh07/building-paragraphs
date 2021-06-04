@@ -1,0 +1,15 @@
+
+body{
+    text-align:center;
+    background-color:aqua;
+}
+div
+	{
+		margin: 10px;
+		width: 48%;
+	}
+	#showParagraph1 , #showParagraph2
+	{
+		width: 100%;
+		margin: 10px;
+	}
